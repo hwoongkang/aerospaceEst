@@ -4,3 +4,7 @@
 *.doc
 *.docx
 *.jpg
+
+*.pages
+
+**/.vscode/
