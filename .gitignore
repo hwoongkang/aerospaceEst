@@ -8,3 +8,5 @@
 *.pages
 
 **/.vscode/
+
+**/figures/
